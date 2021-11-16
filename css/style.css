@@ -295,9 +295,9 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services-bg.jpg);
+    background-image: url(../img/services-bg2.jpg);
     background-size: cover;
-    background-blend-mode: luminosity; 
+    background-blend-mode: soft-light; 
     color: var(--clr-light);
     text-align: center;
 }
