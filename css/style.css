@@ -14,7 +14,7 @@
     --fw-bold: 900;
     
     --clr-light: #fff;
-    --clr-dark: #303030;
+    --clr-dark: #131E54;
     --clr-accent: #59ABEB;
     
     --fs-h1: 3rem;
@@ -297,7 +297,7 @@ header {
     background-color: var(--clr-dark);
     background-image: url(../img/services-bg.jpg);
     background-size: cover;
-    /* background-blend-mode: multiply; */
+    background-blend-mode: luminosity; 
     color: var(--clr-light);
     text-align: center;
 }
